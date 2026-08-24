@@ -1,0 +1,2 @@
+X,Y,K = map(int,input().split())
+print("YES"if abs(X-Y)<=K else "no")
